@@ -6,7 +6,7 @@ I'm a Data Analyst, Python & R Programmer
 👀 I'm interested in Data and Business Analytics
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/kudus-adewale-raji-65a400134/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kudus-adewale-raji-65a400134/)
 [medium_profile](https://medium.com/@rajikudusadewale)
 
 
