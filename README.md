@@ -12,7 +12,7 @@ I help business make data-driven decisions to achieve better results
 [medium_profile](https://medium.com/@rajikudusadewale)
 
 
-## Other Common Github Profile Sections
+## more about me ??
 👩‍💻 I currently use Python, R, SQL, Excel and Power BI for data querrying, manipulation and visualization
 
 💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin, medium, and email
