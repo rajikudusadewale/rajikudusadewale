@@ -8,6 +8,7 @@ I'm a Data Analyst, Python & R Programmer
 I help business make data-driven decisions to achieve better results
 
 ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akraji.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kudus-adewale-raji-65a400134/)
 [medium_profile](https://medium.com/@rajikudusadewale)
 
