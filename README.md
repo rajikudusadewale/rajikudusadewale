@@ -25,7 +25,7 @@ I help business make data-driven decisions to achieve better results
 💬 Ask me about Data and Business Analytics 
 
 📫 How to reach me : Linkedin: @rajikudusadewale, medium: @rajikudusadewale, 
-email: rajikudusuadewale@outlook.com
+email: akraji.com
 
 ## 🛠 Skills
 Python, R, Excel, Power BI, and SQL
