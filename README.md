@@ -1,11 +1,11 @@
 # Hi, I'm Raji! 👋
 
 ## 🚀 About Me
-I'm a Data Analyst, Python & R Programmer
+I'm a Data Analyst/BI Expert
 
-👀 I'm interested in Data and Business Analytics
+👀 I'm interested in Data Analytics, Data Engineering, and Business Intelligence.
 
-I help business make data-driven decisions to achieve better results
+I help businesses make data-driven decisions to achieve better results.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akraji.com/)
@@ -14,11 +14,11 @@ I help business make data-driven decisions to achieve better results
 
 
 ## more about me ??
-👩‍💻 I currently use Python, R, SQL, Excel and Power BI for data querrying, manipulation and visualization
+👩‍💻 I currently use Python, R, Excel, Power BI, Fabric, Tableau, Apache Spark and SQL (T-SQL).
 
 💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin, medium, and email
 
-👯‍♀️ I'm looking to collaborate on projects that would help me improve my skills and experience.
+👯‍♀️ I'm open to collaborations
 
 🎥 When I'm not coding, I am playing pool or spending time with friends and family 
 
@@ -26,7 +26,7 @@ I help business make data-driven decisions to achieve better results
 
 📫 How to reach me : Linkedin: @rajikudusadewale, medium: @rajikudusadewale, 
 
-email: (akraji.com)
+email: (hello@akraji.com)
 
 ## 🛠 Skills
 Python, R, Excel, Power BI, Fabric, Tableau and SQL (T-SQL)
