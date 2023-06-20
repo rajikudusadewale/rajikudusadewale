@@ -22,7 +22,7 @@ I help businesses make data-driven decisions to achieve better results.
 
 🎥 When I'm not coding, I am playing pool or spending time with friends and family 
 
-💬 Ask me about Data and Business Analytics 
+💬 Ask me about Data Analytics, Engineering, and BI
 
 📫 How to reach me : Linkedin: @rajikudusadewale, medium: @rajikudusadewale, 
 
