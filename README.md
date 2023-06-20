@@ -29,4 +29,4 @@ I help business make data-driven decisions to achieve better results
 email: (akraji.com)
 
 ## 🛠 Skills
-Python, R, Excel, Power BI, and SQL
+Python, R, Excel, Power BI, Fabric, Tableau and SQL (T-SQL)
