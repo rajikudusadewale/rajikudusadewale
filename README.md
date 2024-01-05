@@ -1,9 +1,9 @@
-# Hi, I'm Raji! 👋
+# Hi, I'm Raji! aka DeDataDude 👋
 
 ## 🚀 About Me
-I'm a Data Analyst || Process Automation Sys Developer
+I'm a Data Scientist || Data Analyst || Process Automation Sys Developer
 
-👀 I'm interested in Data Analytics, Data Engineering, Business Intelligence, Process Automation etc.
+👀 I'm key into Data Analytics, Data Science, Data Engineering, Business Intelligence, Process Automation etc.
 
 I help businesses make data-driven decisions to achieve better results.
 
@@ -16,7 +16,7 @@ I help businesses make data-driven decisions to achieve better results.
 ## more about me ??
 👩‍💻 I currently use Python, R, Excel, Power BI, Power Apps, Fabric, SQL, and big data tools.
 
-💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin, medium, and email
+💞️ I am available for Data Scientist/Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin, medium, and email
 
 👯‍♀️ I'm open to collaborations
 
