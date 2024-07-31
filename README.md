@@ -1,9 +1,9 @@
-# Hi, I'm Raji! aka DeDataDude 👋
+# Hi, I'm Kudus! aka DeDataDude 👋
 
 ## 🚀 About Me
-I'm a Data Scientist || Data Analyst || Process Automation Sys Developer
+I'm a Data Scientist || Data Analyst || AI Developer
 
-👀 I'm key into Data Analytics, Data Science, Data Engineering, Business Intelligence, Process Automation etc.
+👀 I'm key into Data Analytics, Data Science, Prompt Engineering, LLMs, AI Engineering, & Business Intelligence.
 
 I help businesses make data-driven decisions to achieve better results.
 
