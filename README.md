@@ -14,7 +14,7 @@ I help businesses make data-driven decisions to achieve better results.
 
 
 ## more about me ??
-👩‍💻 I currently use Python, R, Excel, Power BI, Power Apps, Fabric, SQL, and big data tools.
+👩‍💻 I currently use Python, R, Excel, Power BI, Power Apps, Fabric, SQL, LLM tools and big data tools.
 
 💞️ I am available for Data Scientist/Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin, medium, and email
 
@@ -22,11 +22,13 @@ I help businesses make data-driven decisions to achieve better results.
 
 🎥 When I'm not coding, I am playing pool or spending time with friends and family 
 
-💬 Ask me about Data Analytics, Engineering, and BI
+💬 Ask me about Data Analytics, data science, Prompt Engineering, Large Language Models, Artificial Intelligence, and Business Intelligence.
 
-📫 How to reach me : Linkedin: @rajikudusadewale, medium: @rajikudusadewale, 
+📫 How to reach me: 
 
-email: (hello@akraji.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/dedatadude)
+
+Email: dedatadude@akraji.com
 
 ## 🛠 Skills
 Python, R, Excel, Power BI, Power Apps, Fabric, Tableau and SQL (T-SQL)
