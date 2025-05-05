@@ -28,7 +28,7 @@ I help businesses make data-driven decisions to achieve better results.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/dedatadude)
 
-Email: dedatadude@akraji.com
+Email: hello@dedatadude.com
 
 ## 🛠 Skills
 Python, R, Excel, Power BI, Power Apps, Fabric, Tableau and SQL (T-SQL)
