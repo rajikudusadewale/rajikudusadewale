@@ -1,34 +1,88 @@
-# Hi, I'm Kudus! aka DeDataDude 👋
+# Hi, I'm Kudus Adewale Raji 👋
 
-## 🚀 About Me
-I'm a Data Scientist || Data Analyst || AI Developer
+## Data Product Manager | AI Engineering Leader | Founder of DeDataHub
 
-👀 I'm key into Data Analytics, Data Science, Prompt Engineering, LLMs, AI Engineering, & Business Intelligence.
+I build AI products that solve real problems at scale.
 
-I help businesses make data-driven decisions to achieve better results.
+---
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/dedatadude)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kudus-adewale-raji-65a400134/)
-[medium_profile](https://medium.com/@rajikudusadewale)
+## 🚀 What I Do
 
+**At JPMorgan Chase:**  
+Leading AI/ML product development and process transformation as Senior Product Associate.
 
-## more about me ??
-👩‍💻 I currently use Python, R, Excel, Power BI, Power Apps, Fabric, SQL, LLM tools and big data tools.
+**As Founder of DeDataHub:**  
+Building an AI-powered career intelligence platform serving data and AI careers. Launched April 2026 — achieved 5 paying customers in the first 5 days.
 
-💞️ I am available for Data Scientist/Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin, medium, and email
+**As DeDataDude:**  
+Host of "Tech Journey With DeDataDude" podcast, 4x LinkedIn Top Voice, and ForbesBLK Member. I help data and AI professionals navigate their careers through content, community, and real talk.
 
-👯‍♀️ I'm open to collaborations
+---
 
-🎥 When I'm not coding, I am playing pool or spending time with friends and family 
+## 💼 What I'm Building
 
-💬 Ask me about Data Analytics, data science, Prompt Engineering, Large Language Models, Artificial Intelligence, and Business Intelligence.
+🔨 **Current Projects:**
+- [DeDataHub](https://dedatahub.io) — AI-powered career advisor for data & AI professionals
+- AI agent orchestration systems for enterprise compliance
+- LLM-powered tools for HR analytics and feedback processing
 
-📫 How to reach me: 
+📊 **Recent Wins:**
+- Launched DeDataHub to 5 paying users in 5 days
+- Reduced manual processing time by 95% at JPMorgan through AI automation
+- Built 26,000+ community as DeDataDude across multiple platforms
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/dedatadude)
+---
 
-Email: hello@dedatadude.com
+## 🛠️ Tech Stack
 
-## 🛠 Skills
-Python, R, Excel, Power BI, Power Apps, Fabric, Tableau and SQL (T-SQL)
+**AI/ML:** LLMs, Multi-Agent Systems, Prompt Engineering, RAG, Fine-Tuning  
+**Programming:** Python, R, SQL (T-SQL)  
+**Data & BI:** Power BI, Tableau, Excel, Microsoft Fabric  
+**Product Tools:** Git, Jupyter, VS Code, Agile/Scrum  
+**Cloud & Platforms:** Azure, SAP SuccessFactors
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm exploring **Data Product Manager** and **AI Product Lead** roles where I can:
+- Own end-to-end product development for AI/ML systems
+- Lead cross-functional teams and drive product strategy
+- Ship products that deliver measurable business impact
+
+**Open to:** UK-based or remote roles at fintech, AI-first startups, or Big Tech companies building data/AI products at scale.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kudus-adewale-raji-65a400134/)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dedatadude.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajikudusadewale)
+
+📧 **Email:** hello@dedatadude.com  
+🌐 **Website:** [dedatadude.com](https://dedatadude.com)  
+🎧 **Podcast:** Tech Journey With DeDataDude
+
+---
+
+## 💬 Ask Me About
+
+- Building and launching AI products from scratch
+- LLM systems, multi-agent orchestration, and prompt engineering
+- Product management for data and AI applications
+- Transitioning from data roles into product leadership
+- Growing a tech community and building in public
+
+---
+
+## 🎥 When I'm Not Coding
+
+Playing pool 🎱 | Hosting podcast episodes 🎙️ | Spending time with family and friends 👨‍👩‍👧‍👦
+
+---
+
+⭐ **Fun Fact:** I launched DeDataHub while on paternity leave and hit 5 paying customers in 5 days. Proof that you don't need "perfect timing" — you just need to ship.
+
+---
+
